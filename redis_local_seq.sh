@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Cluster Configuration
 HOST_LOCAL="10.10.1.81"  # Your local node
 PORT=7000
